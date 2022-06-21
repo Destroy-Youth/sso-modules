@@ -1,0 +1,9 @@
+[submodule "sso-login"]
+	path = sso-login
+	url = git@github.com:Destroy-Youth/sso-login.git
+[submodule "subdomain2-test-"]
+	path = subdomain2-test-
+	url = git@github.com:Destroy-Youth/subdomain2-test-.git
+[submodule "subdomain-test"]
+	path = subdomain-test
+	url = git@github.com:Destroy-Youth/subdomain-test.git
