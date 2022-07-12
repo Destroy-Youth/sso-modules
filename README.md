@@ -8,4 +8,4 @@
 <https://www.subdomain.equihua-dy.dev/>
 
 ## App 2
-<https://www.subdomain2.equihua-dy.dev/>
+<https://subdomain2.equihua-dy.dev//>
